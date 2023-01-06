@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+    id "com.github.johnrengelman.shadow"
+}
+dependencies {
+    implementation group: 'com.google.guava', name: 'guava'
+}
+repositories {
+    mavenCentral()
+}
