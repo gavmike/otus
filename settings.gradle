@@ -1,2 +1,0 @@
-include 'hw01-gradle'
-rootProject.name = 'otus'
